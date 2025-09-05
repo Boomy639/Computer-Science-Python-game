@@ -1,0 +1,104 @@
+Analysis of the problem:
+Table of contents:
+
+Line 7: Problem Identification
+Line 12: Stakeholders
+Line 20: Justification using 5 Strands of computational thinking
+Line 40: Research The Problem
+Line 60: Specify the proposed Solution
+Line 71: Software and hardware requirements
+Line 75: Success Criteria
+
+
+
+
+Problem identification:
+Make a 2D Game using Python by scratch and potentially include a VR Mode
+Features that are required in this program will be, inventory, attacking, movement, game window, key press processing, mouse processing, loot tables / RNG
+
+Stakeholders:
+The stake holder in this project will be a good friend of mine, goes by the name of "Niki Luzader" - long term friend in programming and projects 
+Another Stake holder in this project will be me: a small time programmer and the developer of this application and solution
+Other stakeholders could be the end user's waiting and expecting a high quality product.
+
+Justification of how the problem can be solved by computational methods:
+Covering 5 strands of computational thinking:
+
+Focusing on important details using abstraction - - For a video game, the key elements would be focusing on making the game WORK before making it look good, what good is a bunch of detailed assets without any way to make them come alive?
+
+Another important detail to focus on in the topic of abstraction, is that myself as a one man team developing this, I am not focusing on high end or detailed graphics. Going with the examples shown and talked about later on, I will be going off of a low level pixel art style of game.
+
+So the first couple important steps are making the game window, being able to make the player move, being a grid based system, up, down, left and right, on platforms and such, interact with objects, such as keys, collectables, weapons and item pickups, key prompts, being an interaction window with an NPC, puzzle element to spin or move objects into the correct location for the puzzle to be solved and being able to progress to the next level or stage, and an overall baseline to improve from.
+
+The above also includes a minute (small or insignificant) level of decomposition, by breaking down the key and core elements of the game and how to start developing it.
+
+Pattern Recognition - This element I'm planning to use in the puzzle aspect in some levels, being a dungeon crawler, taking inspiration from Terraria, Skyrim and other such games i have played as the like.
+
+Algorithms - for this aspect, loot tables, RNG and weapon upgrade luck / path / chance will have algorithms based on some items affecting upgrade chance, taking inspiration from the enhancement element in Black Desert Online
+
+Evaluation - Assessing the overall effectiveness and quality of the product after it has completed the first pass of coding to achieve a "playable" state, then checking over it over and over again, ironing out bugs, mishaps and exploits that shouldnt be there.
+
+This also includes optimization, performance of the game, making sure there are no memory leaks or other hardware/software bugs to mess with anything.
+
+
+The next steps:
+Research the problem:
+
+Look at existing solutions to a similar problem *with similar stakeholders* to see what is possible, describe these existing solutions in detail including features that can be adapted for use in your proposed solution and complete and record interviews & questionnaires with stakeholders.
+
+Existing solution of this problem - Enter the Gungeon, MapleStory, Terraria, basically other 2D Platformer RPG type games, these have very good execution and well thought out designs which work, one reason being why i will take inspiration from these games.
+
+Enter the Gungeon - This game is a 2D Pixel Art Top Down, Roguelike game featuring a vast array of weapons, a wide amount of movement options and item pickups, the game has a wave system with a bunch of enemies and encorporating all the previous elements mentioned makes the game insanely fun and interesting to play.
+
+Terraria - This game is a 2D Pixel Art Sidescroller sandbox RPG type game with roguelike elements, it has a vast array of bosses, enemies, weapons, NPCs and ways to play, there are a multitude of features that i would want or like to adapt and encorporate into my own product.
+
+MapleStory - A very good 2D MMOPRG Sidescroller with mostly only pixel art, another simple yet long and fun game, base game is entertaining and good however microtransactions hog the game down and make it repetative and very grindy.
+
+Complete and record interviews and questionnaires with stakeholders:
+[THIS PART OF RESEARCH TBD (Waiting for input from stakeholder)]
+
+Interview with myself since i am a stakeholder:
+TBD
+
+
+Specify The Proposed Solution:
+- Identify the features of the proposed solution (be realistic about what can be achieved in the time allowed)
+- Identify any limitations on the proposed solution
+
+Features of the proposed solution would be, a fully functional  video game coded in python using Visual Studio Code IDE, Inventory system, loot drops, RNG, bosses with unique attack patterns and a potential cool yet gimmicky VR Mode
+
+Being realistic with what i can achieve in the given time, id say RNG loot drops and bosses with unique attack patterns will be difficult yet achievable, the VR Mode on the other hand will be feature added in last IF i stil have time left at the end of the deadline for the project.
+
+Limitations: Python as a programming language is rarely used for gaming and so performance and optimization are worries, like running Wii Games on an emulator at 50% speed or something equivelant, would run, but slow, so implementing a good garbage collection model and avoiding memory leaks while making the game run good at desirable framerates will be a must.
+
+Software and Hardware Requirements:
+Ideally this game should have low hardware requirements such that anything can run it, it will have graphical settings to set the quality of the game, as for software requirements, python, vcredist and directx or any other driver for running applications will be required.
+
+Minimum Specifications would probably be like a GT710 Or Intel UHD Integrated graphics, dual core cpu and 4-8 Gigs of ram, if well optimized
+
+Recommended Specifications, assuming high graphical settings and OR unoptimized game: GTX 1060 or RX580 Minimum with at least 8 gigs of ram and a 4 Core CPU
+
+Will be using my own Computer for testing:
+Specification for reference:
+Ryzen 9 5900X
+64GB 3600Mhz Memory
+850W PSU
+RX 7800XT (Recently Upgraded*)
+
+Success Criteria:
+
+The success criteria for this proposed solution will be, fully detailed interface, UI and sprites, intuitive gameplay, difficulty selection, overall finished and detailed product.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
